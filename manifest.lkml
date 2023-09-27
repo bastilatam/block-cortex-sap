@@ -1,19 +1,19 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "connection_poc_cortex"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "sp-te-consultores-dev-obzc"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "POC_AECORSOFT_GOOGLE"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "120"
   export: override_required
 }
