@@ -9,7 +9,7 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "POC_AECORSOFT_GOOGLE"
+  value: "POC_SAP_REPORTING"
   export: override_required
 }
 
